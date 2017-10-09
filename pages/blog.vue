@@ -7,7 +7,7 @@
 
 		<article class="block mb5 ml4">
 			<h3 class="helvetica white">10/8/17</h3>
-			<a class="f4 fw6 db white link hover-hot-pink helvetica" href="/b/template"> hello world </a>
+			<a class="f4 fw6 db white link hover-hot-pink helvetica" href="/b/helloworld"> hello world </a>
 			<p class="white ml2">welcome to my humble abode</p>
 		</article>
 
