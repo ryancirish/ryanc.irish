@@ -3,10 +3,10 @@
     <h1 class="f-headline lh-solid z helvetica white fw9">RYAN C. IRISH</h1>
     
     <div class="cf">
-      <p><a href="/about"><h1 class="helvetica f-subheadline white hover-bg-navy"> about </h1></a></p>
-      <p><a href="/blog"><h1 class="helvetica f-subheadline white hover-bg-navy"> blog </h1></a></p>
-      <p><a href="mailto:me@ryanc.irish"><h1 class="helvetica f-subheadline white hover-bg-navy"> contact </h1></a></p>
-      <p><a href="https://github.com/ryancirish"><h1 class="helvetica f-subheadline white hover-bg-navy"> github </h1></a></p>
+      <h1 class="helvetica f-subheadline white hover-bg-navy"><a href="/about"> about </a></h1>
+      <h1 class="helvetica f-subheadline white hover-bg-navy"><a href="/blog"> blog </a></h1>
+      <h1 class="helvetica f-subheadline white hover-bg-navy"><a href="mailto:me@ryanc.irish"> contact </a></h1>
+      <h1 class="helvetica f-subheadline white hover-bg-navy"><a href="https://github.com/ryancirish"> github </a></h1>
     </div>
       
   </div>
