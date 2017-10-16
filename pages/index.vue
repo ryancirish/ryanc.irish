@@ -22,7 +22,7 @@ export default {
 <style scoped>
 
   #main {
-    height: 100vh;
+    min-height: 100vh;
     background-image: url("/sky.jpg");
     background-repeat: repeat-y;
   }

@@ -16,7 +16,7 @@
 
 			<p>I'll be back soon with whatever comes to mind. There will be no specific format at the moment. For the wall.</p>
 
-			<p>-rci</p>
+			<p style="margin-bottom:0px;">-rci</p>
 		</main>
 
 	</div>
@@ -26,9 +26,13 @@
 <script></script>
 
 <style>
+
 	#entry {
-		height: 100vh;
+		min-height: 100vh;
 		background-image: url('/sky.jpg');
+		background-repeat: repeat-y;
+		background-size: 
+
 	}
 
 	#copy {
@@ -40,8 +44,7 @@
 	}
 
 	main {
-		max-height: 70vh;
-		overflow-y: auto;
+	
 		
 	}
 
@@ -50,6 +53,10 @@
   /* styles */
   main {
   	max-width: 24rem
+  }
+
+  #entry {
+  
   }
 }
 

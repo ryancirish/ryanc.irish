@@ -2,7 +2,7 @@
 	<div id="blog" class="">
 		<h1 class="f-subheadline helvetica white mt0">blog</h1>
 
-		<div class="lim overflow-scroll-ns lh-copy measure-wide">
+		<div class="lim lh-copy measure-wide">
 			
 
 		<article class="block mb5 ml4">
