@@ -24,6 +24,7 @@ export default {
   #main {
     height: 100vh;
     background-image: url("/sky.jpg");
+    background-repeat: repeat-y;
   }
 
   .z {
