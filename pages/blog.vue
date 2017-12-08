@@ -11,6 +11,18 @@
 			<p class="white ml2">welcome to my humble abode</p>
 		</article>
 
+		<article class="block mb5 ml4">
+			<h3 class="helvetica white">11/4/17</h3>
+			<a class="f4 fw6 db white link hover-hot-pink helvetica" href="/b/new"> misc. </a>
+			<p class="white ml2">misc ness</p>
+		</article>
+
+		<article class="block mb5 ml4">
+			<h3 class="helvetica white">11/5/17</h3>
+			<a class="f4 fw6 db white link hover-hot-pink helvetica" href="/b/virgil"> virgil & design thinking </a>
+			<p class="white ml2">just do it (tm)</p>
+		</article>		
+
 
 		</div>
 
